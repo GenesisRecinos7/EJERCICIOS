@@ -1,0 +1,10 @@
+package periodo2clase181;
+public  Periodo2Clase181 (
+  public static void main(String[] args)   {
+  int j=l;
+  for (int i= -13; i<=-10; i++) {
+    j++;
+  }
+  system.out.println(j);
+}
+  
